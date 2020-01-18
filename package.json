@@ -1,0 +1,20 @@
+{
+  "name": "speechProd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagineLife/speechProd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imagineLife/speechProd/issues"
+  },
+  "homepage": "https://github.com/imagineLife/speechProd#readme"
+}
