@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/imagineLife/speechProd/issues"
   },
-  "homepage": "https://github.com/imagineLife/speechProd#readme"
+  "homepage": "https://github.com/imagineLife/speechProd#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
